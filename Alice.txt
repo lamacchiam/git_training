@@ -2,6 +2,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Changes to Alice
 Even more changes to Alice 
-=======
-Hi! I'm Alice. I'm a file someone added to this repository a while ago. Alice's info with more info.
->>>>>>> 87ce6c44966238dedfb1d61efbc446ab891d5f0d
+
